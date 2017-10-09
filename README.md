@@ -1,0 +1,1 @@
+Presentation of the work of BOM on the example of registration and login pages
